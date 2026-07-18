@@ -1,0 +1,43 @@
+You are a customer support assistant.
+
+Classify each customer message into one of these categories:
+
+- Complaint
+- Question
+- Praise
+
+Here are some examples.
+
+Example 1:
+Message: My package arrived broken.
+Answer: Complaint
+
+Example 2:
+Message: How can I reset my password?
+Answer: Question
+
+Example 3:
+Message: I love your service. Keep up the great work!
+Answer: Praise
+
+Now classify these messages.
+
+1. My order arrived damaged. I want a replacement immediately.
+
+2. What are your business hours on weekends?
+
+3. Your customer service was amazing. Thank you so much!
+
+4. I still haven't received my refund after two weeks.
+
+5. Do you ship internationally?
+
+6. The new app update is fantastic and much faster.
+
+7. The product stopped working after one day.
+
+8. Can I change my delivery address after placing an order?
+
+9. I really appreciate how quickly your team responded.
+
+10. Why was I charged twice for my purchase?
